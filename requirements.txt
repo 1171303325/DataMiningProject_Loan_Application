@@ -9,7 +9,6 @@ astroid==2.4.2
 astunparse==1.6.3
 attrs==20.1.0
 autopep8==1.5.4
-awesome-streamlit==20200728.1
 backcall==0.2.0
 base58==2.0.1
 bleach==3.1.5
@@ -46,7 +45,6 @@ gunicorn==20.0.4
 h5py==2.10.0
 idna==2.10
 imbalanced-learn==0.7.0
-imblearn==0.0
 ipykernel==5.3.4
 ipython==7.18.1
 ipython-genutils==0.2.0
@@ -94,15 +92,12 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.6.0
 pycparser==2.20
-pydeck==0.5.0b1
 Pygments==2.6.1
 pylint==2.5.3
 pyparsing==2.4.7
 pyrsistent==0.16.0
 python-dateutil==2.8.1
 python-decouple==3.3
-pytz==2020.1
-pywin32==228
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.2
@@ -116,7 +111,6 @@ scs==2.1.2
 seaborn==0.11.0
 Send2Trash==1.5.0
 six==1.15.0
-sklearn==0.0
 sqlparse==0.3.1
 streamlit==0.66.0
 tensorboard==2.3.0
